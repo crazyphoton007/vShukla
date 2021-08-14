@@ -4,6 +4,6 @@ Monitoring Gene Expression and Transcriptome changes with Cancer RNA Sequencing 
 Multiple Unsupervised Machine Learning techniques are applied to analyze the Cancer Genomic Data in order to retrieve insights related to various tumor types.
 
 
-1.  [FetchXMLTagsData.ps1](https://github.com/goelg08/Powershell/blob/master/FetchXMLTagsData.ps1) - Script to fetch the tags data from XML and store it in Database.
-2.  [InsertUsingAPI.ps1](https://github.com/goelg08/Powershell/blob/master/InsertUsingAPI.ps1) - Script to hit the API and fetch the data from the API and store it in Database.
-3.  [UpdateUsingAPI.
+1.  [Analysis of Cancer Genomic Data by using Unsupervised Learning Algorithms](https://github.com/crazyphoton007/Gene-Expression-Cancer-RNA-Sequence/blob/main/EAS507_Final_Project.ipynb)
+2.  [PPT](https://github.com/crazyphoton007/Gene-Expression-Cancer-RNA-Sequence/blob/main/SDM_PPT.pptx) - Script to hit the API and fetch the data from the API and store it in Database.
+
