@@ -1,4 +1,4 @@
-# [Powershell](https://github.com/goelg08/Powershell)
+# [Gene-Expression-Cancer-RNA-Sequence](https://github.com/crazyphoton007/Gene-Expression-Cancer-RNA-Sequence)
 Powershell Scripts
 Various powershell scripts to automate and met business needs.
 1.  [FetchXMLTagsData.ps1](https://github.com/goelg08/Powershell/blob/master/FetchXMLTagsData.ps1) - Script to fetch the tags data from XML and store it in Database.
