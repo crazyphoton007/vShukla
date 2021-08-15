@@ -22,7 +22,11 @@ spread across features and with respect to response variable and providing concl
 3. [PPT](https://github.com/crazyphoton007/Forecast_Bike-Rentals/blob/main/ppt%20final1.pptx)
 
 # [DMQL Project](https://github.com/crazyphoton007/SQL_Project)
-### vikas
+
+ Our project is to create a database that could contain entire information of restaurant business. This allows
+ the restaurant business to analyze data and improve their operations and customer service by making data
+ driven decisions.
+
  
  1. [Create Queries](https://github.com/crazyphoton007/SQL_Project/blob/main/create.sql)
  2. [Load Queries](https://github.com/crazyphoton007/SQL_Project/blob/main/load.sql)
