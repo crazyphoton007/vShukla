@@ -21,4 +21,11 @@ spread across features and with respect to response variable and providing concl
 2. [Project Report](https://github.com/crazyphoton007/Forecast_Bike-Rentals/blob/main/project_report.pdf)
 3. [PPT](https://github.com/crazyphoton007/Forecast_Bike-Rentals/blob/main/ppt%20final1.pptx)
 
+# [DMQL Project](https://github.com/crazyphoton007/SQL_Project)
+ 
+ 1. [Create Queries](https://github.com/crazyphoton007/SQL_Project/blob/main/create.sql)
+ 2. [Load Queries](https://github.com/crazyphoton007/SQL_Project/blob/main/load.sql)
+ 3. [Select Queries](https://github.com/crazyphoton007/SQL_Project/blob/main/select.sql)
+ 4. [Presentation](https://github.com/crazyphoton007/SQL_Project/blob/main/dmql-project.mp4)
+
 
