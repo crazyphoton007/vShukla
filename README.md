@@ -13,3 +13,12 @@ Multiple Unsupervised Machine Learning techniques are applied to analyze the Can
 2. Fetched Disposed/Aquired information regarding Stocks.
 3. Generate proper formatted data and provide files for further processing.
 
+# [Exploratory data analysis and Modelling of Bike rental forecast](https://github.com/crazyphoton007/Forecast_Bike-Rentals)
+
+ 1. Predict total rentals per hour for the last quarter of 2012. Determine and plot features which 
+have high and low correlation with response variables. Plots graphs to understand how data is 
+spread across features and with respect to response variable and providing conclusion for increasing bike rental.
+2. [Project Report](https://github.com/crazyphoton007/Forecast_Bike-Rentals/blob/main/project_report.pdf)
+3. [PPT](https://github.com/crazyphoton007/Forecast_Bike-Rentals/blob/main/ppt%20final1.pptx)
+
+
