@@ -23,7 +23,7 @@ spread across features and with respect to response variable and providing concl
 
 # [DMQL Project](https://github.com/crazyphoton007/SQL_Project)
 
- Our project is to create a database that could contain entire information of restaurant business. This allows
+ This project is to create a database that could contain entire information of restaurant business. This allows
  the restaurant business to analyze data and improve their operations and customer service by making data
  driven decisions.
 
